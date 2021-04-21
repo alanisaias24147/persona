@@ -1,0 +1,2 @@
+# persona
+object with properties
